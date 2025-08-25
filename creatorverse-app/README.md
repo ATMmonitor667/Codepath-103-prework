@@ -5,7 +5,7 @@ A modern React-based web application for managing and showcasing your favorite c
 ## 🎬 Demo
 
 <!-- ADD YOUR DEMO GIF HERE -->
-![CreatorVerse Demo](./demo.gif)
+![CreatorVerse Demo](https://zgnkiayrbioyabamrist.supabase.co/storage/v1/object/sign/walkthrough%20gif/prework103.gif?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV85YjZlNTFmYS1jNTZmLTQ1ODMtYTc4YS1kMzk3MmViMTdiZDUiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJ3YWxrdGhyb3VnaCBnaWYvcHJld29yazEwMy5naWYiLCJpYXQiOjE3NTYwOTIwNDMsImV4cCI6MTc1ODY4NDA0M30.Zs8QPv7TGs58a6a-bsltdMevl9Ctju4Wy0L6LHhX-3I)
 *Add your demo GIF above to showcase the app in action!*
 
 ## ✨ Features
